@@ -1,0 +1,5 @@
+ORDER OF CONFIG: Owner, Bot Name, Password (optional), Channel 
+Owner 
+BotName 
+Bot Password 
+#lobby

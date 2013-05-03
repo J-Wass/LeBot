@@ -13,24 +13,25 @@ bot on several channels. LeBot is meant to be a customizable, yet simple and pow
 
 To customize LeBot, open up config.txt. If config.txt is missing, run xRun.bat, which will 
 generate a new one. Once the config.txt has been loaded, close the cmd prompt, and open config.txt.
+Editing config.txt is very simple.
 
-Editing config.txt is very simple. There are directions right in the file itself. Here are config.txt's contents:
+###There are directions right in the file itself. Here are config.txt's contents:
 
-ORDER OF CONFIG: Owner, Bot Name, Password (optional), Channel 
-Owner 
-BotName 
-Bot Password 
-#lobby
+ORDER OF CONFIG: Owner, Bot Name, Password (optional), Channel <br />
+Owner <br />
+BotName <br />
+Bot Password <br />
+&#35;lobby <br />
 
-An example of a LeBot config.txt:
+###An example of a LeBot config.txt:
 
-ORDER OF CONFIG: Owner, Bot Name, Password (optional), Channel 
-LeChosenOne 
-LeChosenOne's_Bot
-password
-#chat
+ORDER OF CONFIG: Owner, Bot Name, Password (optional), Channel <br />
+LeChosenOne <br />
+LeChosenOne's_Bot <br />
+password <br />
+&#35;chat <br />
 
-Althouh it is not required, setting a password for your bot is highly recommended for saftey and security.
+Although it is not required, setting a password for your bot is highly recommended for saftey and security.
 To set a password for your bot on irc.esper.net, log in as your bot name, and type 
 /msg nickserv register <desired password> <email>
 After, this go to your email and follow the instructions. Once the password is set, use that in your config.txt.

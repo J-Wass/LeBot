@@ -33,7 +33,7 @@ password <br />
 
 Although it is not required, setting a password for your bot is highly recommended for saftey and security.
 To set a password for your bot on irc.esper.net, log in as your bot name, and type <br />
-/msg nickserv register <desired password> <email>
+/msg nickserv register -desired password- -email- <br />
 After, this go to your email and follow the instructions. Once the password is set, use that in your config.txt.
 
 To run LeBot, simply run xRun.bat. Ontop of running your bot, xRun.bat will also double as a mini irc chat client.
